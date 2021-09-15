@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<h1>Ejercicios con Algoritmos</h1>
-<h2>Algoritmos de Ordenamiento</h2>
+<center><h1>ESCUELA POLITÉCNICA NACIONAL</h1></center>
+<center><h1>PROYECTO FINAL</h1></center>
+<center><h1>PROGRAMACIÓN</h1></center>
+<h2>Programación</h2>
 <div align="center">
-<img src="https://ugc.kn3.net/i/760x/http://poiritem.files.wordpress.com/2009/12/agentes-basados-en-busqueda.png" width="300" height="300">
+<img src="https://www.ecured.cu/images/f/f3/Escuela_politecnica_nacional.jpg" width="300" height="300">
 </div>
 <ul>
   <li><a href="https://github.com/Byrontosh/progra/tree/demo" target="_blank">Burbuja</a></li>
