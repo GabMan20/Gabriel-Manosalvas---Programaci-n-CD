@@ -11,13 +11,5 @@ layout: default
   <li><a href="https://github.com/Byrontosh/progra/tree/demo" target="_blank">Burbuja</a></li>
 </ul>
 <hr>
-<h2>Algoritmos de Búsqueda</h2>
-<div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT80aoB0F1j-BIij97MMvrSJp8hiiM5BiR1LQ&usqp=CAU">
-</div>
-<ol>
-  <li><a href="https://github.com/Byrontosh/progra/tree/demo">Burbuja</a></li>
-</ol>
-
 </head>
 <body>
