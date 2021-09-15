@@ -3,8 +3,7 @@ layout: default
 ---
 <center><h1>ESCUELA POLITÉCNICA NACIONAL</h1></center>
 <center><h1>PROYECTO FINAL</h1></center>
-<center><h1>PROGRAMACIÓN</h1></center>
-<h2>Programación</h2>
+<center><p>Programación</p></center>
 <div align="center">
 <img src="https://www.ecured.cu/images/f/f3/Escuela_politecnica_nacional.jpg" width="300" height="300">
 </div>
