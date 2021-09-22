@@ -10,5 +10,8 @@ layout: default
 <ul>
   <li><a href="https://github.com/GabMan20/PROYECTO.FINAL" target="_blank">Menú principal</a></li>
 </ul>
+<ul>
+  <li><a href="https://replit.com/@GabrielMano/PROYECTO-FINAL#main.c" target="_blank">Código en Replit</a></li>
+</ul>
 <hr>
 <body>
