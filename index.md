@@ -13,5 +13,8 @@ layout: default
 <ul>
   <li><a href="https://replit.com/@GabrielMano/PROYECTO-FINAL#main.c" target="_blank">Código en Replit</a></li>
 </ul>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=lpQV1MksshE&ab_channel=GabrielDavid" target="_blank">Video en Youtube</a></li>
+</ul>
 <hr>
 <body>
