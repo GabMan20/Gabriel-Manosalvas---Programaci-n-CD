@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <center><h1>ESCUELA POLITÉCNICA NACIONAL</h1></center>
 <center><h2><u>PROYECTO FINAL</u></h2></center>
 <center><h2><i>Programación</i></h2></center>
